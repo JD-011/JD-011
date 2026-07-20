@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Jayveer Dahiya 👋 </h1>
+<h1 align="center"> Hi there, I'm Jayveer Dahiya </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
